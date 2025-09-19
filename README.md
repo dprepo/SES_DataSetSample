@@ -15,3 +15,5 @@
 - Estimated hours/days
 - Sprint count
 - Team weeks required
+
+  <img width="407" height="242" alt="image" src="https://github.com/user-attachments/assets/a8e92fe6-0ab1-49e8-ae2a-b82ec2028ccd" />
